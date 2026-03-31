@@ -2,7 +2,7 @@
  
 POINTPARTY (c:pointparty)
 
-Funcionalidade: Conecta COGO Points criando polilinhas de forma automatizada com três modos de "festa":
+Funcionalidade: Conecta COGO Points criando polilinhas de forma automatizada com três modos de "festa" ( O ÚNICO QUE ESTÁ FUNCIONANDO NO MOMENTO É O "ORDEM'):
 
 Ordem: Liga os pontos seguindo a ordem numérica deles
 
